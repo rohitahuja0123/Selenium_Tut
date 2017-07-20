@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/selenium-3.4.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/bundle-jars.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/cssparser-0.9.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/htmlunit-2.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/htmlunit-core-js-2.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/htmlunit-driver-2.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/neko-htmlunit-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/websocket-api-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/websocket-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/websocket-common-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z5045034/Downloads/selenium/sourse code/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
