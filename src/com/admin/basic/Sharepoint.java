@@ -37,7 +37,7 @@ public class Sharepoint
 		
 		try {
 			driver.findElement(By.id("cred_userid_inputtext")).sendKeys("z5034303@ad.unsw.edu.au");
-			driver.findElement(By.id("cred_password_inputtext")).sendKeys("");
+			driver.findElement(By.id("cred_password_inputtext")).sendKeys("xxxxx");
 			
 			//driver.findElement(By.name("cred_keep_me_signed_in_checkbox")).click();
 			

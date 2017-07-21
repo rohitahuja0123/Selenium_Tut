@@ -32,7 +32,7 @@ public class Sims_sit {
 	public void searchPage()
 	{
 		driver.findElement(By.id("userid")).sendKeys("Z5045034");
-		driver.findElement(By.id("pwd")).sendKeys("Z5045034");
+		driver.findElement(By.id("pwd")).sendKeys("xxxx");
 		
 		driver.findElement(By.name("Submit")).click();
 		

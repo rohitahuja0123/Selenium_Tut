@@ -39,7 +39,7 @@ public class Tut2
 			
 			try {
 				driver.findElement(By.id("cred_userid_inputtext")).sendKeys("z5045034@ad.unsw.edu.au");
-				driver.findElement(By.id("cred_password_inputtext")).sendKeys("syd##2015");
+				driver.findElement(By.id("cred_password_inputtext")).sendKeys("xxxxx");
 				
 				//driver.findElement(By.name("cred_keep_me_signed_in_checkbox")).click();
 				

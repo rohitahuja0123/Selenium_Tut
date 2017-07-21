@@ -32,18 +32,14 @@ public class Email {
 	public void searchPage()
 	{
 		driver.findElement(By.id("identifierId")).sendKeys("z5045034@gmail.com");
-		driver.findElement(By.xpath("//*[@id='identifierNext']/content/span")).click();
-		driver.findElement(By.xpath(".//*[@id='password']/div[1]/div/div[1]/input")).sendKeys("rohit##1992");
+		driver.findElement(By.xpath(".//*[@id='identifierNext']/content/span")).click();
+		driver.findElement(By.xpath(".//*[@id='password']/div[1]/div/div[1]/input")).sendKeys("");
 		driver.findElement(By.xpath(".//*[@id='passwordNext']/content/span")).click();
 		
-		driver.findElement(By.name("Submit")).click();
+		//driver.findElement(By.name("Submit")).click();
 		
 		
-		/// Compose ////
-		
-		
-				
-		
+		/// Logged in  ////
 		
 		// Send email 
 		sendEmail();
@@ -55,10 +51,19 @@ public class Email {
 	
 	public void sendEmail()	
 	{
-		driver.findElement(By.xpath(".//*[@id=':h1']/div/div")).click();
-
-
+		try {
+			Thread.sleep(3000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		driver.get("https://mail.google.com/mail/u/0/#inbox?compose=new");
+		
+		//
+		driver.findElement(By.xpath(".//*[@id=':kg']/div")).click();
+		driver.findElement(By.xpath(".//*[@id=':kg']/div")).sendKeys("bphan.ms@gmail.com"); 
 	}
+	
 	
 
 	public static void main(String[] args)
